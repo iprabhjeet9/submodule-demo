@@ -1,4 +1,3 @@
 [submodule "RestWebServices"]
     path = RestWebServices
     url = https://github.com/iprabhjeet9/RestWebServices.git
-    branch = mac
